@@ -1,4 +1,4 @@
-# Face-Replacement---CIS-581---Computer-Vision
+# Face-Replacement - CIS-581 - Computer Vision
 
 Instructions:
 
